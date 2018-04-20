@@ -1,8 +1,8 @@
 # LedPingPongGame 
 #Read it in the Raw form
 
-Merve Barın 0049656
-Doğanay Şirintuna 0034324
+Merve Barın 
+Doğanay Şirintuna 
 
 ELEC LAB PROJECT REPORT
 Introduction
