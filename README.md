@@ -1,4 +1,4 @@
-# LedPingPongGame
+# LedPingPongGame Read it in the Raw form.
 
 Merve Barın 0049656
 Doğanay Şirintuna 0034324
@@ -171,7 +171,7 @@ L04<=conv_std_logic_vector(L0,4);
 L14<=conv_std_logic_vector(L1,4);
 
 end process;
-------------------------------
+
 process(clk1)
 begin
 if(rising_edge(clk1)) then
